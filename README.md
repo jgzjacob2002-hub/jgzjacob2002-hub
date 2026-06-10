@@ -21,11 +21,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Passionate Industrial Robotics Engineering student focused on process automation and continuous improvement.
+- Experienced in bridging mechanical design (CAD/PLC) with data-driven analysis (Python) to optimize manufacturing efficiency.
+- High-performance athlete (National & International Swimming Medalist), applying strict discipline, resilience, and teamwork to engineering challenges.
+- Business-oriented mindset with international academic experience (Spain), understanding the financial impact (ROI/P&L) behind technical decisions.
+- Actively seeking an internship opportunity in the automotive industry to drive operational excellence and solve complex problems
 
 <br><br>
 
