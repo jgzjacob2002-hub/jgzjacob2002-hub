@@ -1,10 +1,8 @@
-## Hola, soy Jacob 👋
+## Hi, I'm Jacob 👋
 
 ![image alt](https://github.com/jgzjacob2002-hub/jgzjacob2002-hub/blob/af341546f7087861982988bfc127efdd2c2c6879/Untitled%20design.png)
 <!--
 **jgzjacob2002-hub/jgzjacob2002-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
 <h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
