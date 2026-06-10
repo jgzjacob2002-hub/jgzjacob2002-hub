@@ -72,7 +72,7 @@
 <br>
 
 <li>
-<a href="jgzjacob2002@gmail.com" target="_blank">
+<a href="https://www.linkedin.com/in/jacobguillen/?skipRedirect=true" target="_blank">
 <img src="https://img.shields.io/badge/gmail: jgzjacob2002@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
