@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hi, I'm Jacob Guillen Zepeda 👋</b></h1>
+![image ]()
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=00599C&size=26&center=true&vCenter=true&width=800&height=80&lines=Industrial+Robotics+Engineering+Student;Automation+%7C+CAD+Design+%7C+Python;Data-Driven+%26+Business-Oriented;High-Performance+Athlete+🏊‍♂️" alt="Typing SVG" /></a>
