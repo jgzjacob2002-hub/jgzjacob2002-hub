@@ -1,5 +1,6 @@
 ## Hola, soy Jacob 👋
 
+![image alt](https://github.com/jgzjacob2002-hub/jgzjacob2002-hub/blob/af341546f7087861982988bfc127efdd2c2c6879/Untitled%20design.png)
 <!--
 **jgzjacob2002-hub/jgzjacob2002-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
